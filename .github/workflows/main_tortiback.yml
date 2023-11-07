@@ -54,4 +54,4 @@ jobs:
           app-name: 'TortiBack'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4EC946DA72A44F1DAC029A553D73CD55 }}
-          package: .
+          package: ${{ github.workspace }}/src/api

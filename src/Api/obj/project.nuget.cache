@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kfyvqna5/UO1EB4ekmoF3VZC1C5xJCnBbiUkkG7A8FWRWYhMZw4NPfw7TRZW/B1ZGxzGLLou5ZocluWEMNAEZA==",
+  "dgSpecHash": "8xnvVjJGsy4krHdBtVR771r7+Zq2Rot3jL51hso/TQ4nTjk/HcSd/v3LBedubsEOu29J+fiXCj1SrpQpLxiAew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rreyes\\Videos\\Tori\\backend\\src\\Api\\Ecommerce.Api.csproj",
+  "projectFilePath": "C:\\Users\\rreyes\\Videos\\Nueva carpeta (2)\\backend\\src\\Api\\Ecommerce.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rreyes\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\rreyes\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
